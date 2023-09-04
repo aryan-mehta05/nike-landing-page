@@ -2,6 +2,12 @@
 
 This is a landing page project of a potential Nike website that hosts a plethora of different shoes. The code is written in React, and uses Tailwind CSS for the styling of the landing page.
 
+The website looks something like this:
+
+![Nike Landing Page](https://github.com/aryan-mehta05/Images-for-projects/blob/main/nike/nike-landing-ss.png?raw=true)
+
+{ If the image does not render, head over to "https://github.com/aryan-mehta05/Images-for-projects/blob/main/nike/nike-landing-ss.png?raw=true" to see the page.}
+
 ### To make this project your own:
 You can either,
 
